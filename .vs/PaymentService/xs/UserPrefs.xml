@@ -1,0 +1,46 @@
+﻿<Properties StartupConfiguration="{E1769333-251A-4DA3-B029-B7960544EA14}|https">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Presentation/Controllers/PaymentTransactionsController.cs">
+    <Files>
+      <File FileName="Domain/Models/PaymentStatus.cs" />
+      <File FileName="Domain/Models/PaymentTransaction.cs" />
+      <File FileName="Infrastructure/Data/ApplicationDbContext.cs" />
+      <File FileName="Presentation/Controllers/PaymentTransactionsController.cs" Line="20" Column="94" />
+      <File FileName="Application/DTOs/PaymentTransactionDto.cs" />
+      <File FileName="Application/Mappings/MappingProfile.cs" />
+      <File FileName="Domain/RepositoriyInterfaces/IPaymentTransactionRepository.cs" />
+      <File FileName="Infrastructure/Repositories/PaymentTransactionRepository.cs" />
+      <File FileName="Application/Services/Interface/IPaymentTransactionService.cs" />
+      <File FileName="Application/Services/PaymentTransactionService.cs" />
+      <File FileName="Application/Validation/IValidator.cs" />
+      <File FileName="Application/Validation/PaymentTransactionValidator.cs" />
+      <File FileName="Domain/Models/PaymentMethodType.cs" />
+      <File FileName="Application/DTOs/PaymentStatusDto.cs" />
+      <File FileName="PaymentService/Middleware/ExceptionHandlingMiddleware.cs" />
+      <File FileName="PaymentService/Program.cs" />
+      <File FileName="PaymentService/appsettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PaymentService" expanded="True">
+            <Node name="Domain" expanded="True">
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="Presentation" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="PaymentTransactionsController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.PaymentService PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
